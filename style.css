@@ -14,7 +14,7 @@ body {
   height: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: auto;
   font-family: Nunito;
 }
 
