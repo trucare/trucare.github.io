@@ -13,6 +13,7 @@ body {
 	transform-style: preserve-3d;
   height: 100%;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   overflow-x: hidden;
   font-family: Nunito;
 }
@@ -33,6 +34,8 @@ p {
   min-height: 100vh;
   width: 100vw;
   box-sizing: border-box;
+  overflow-y: scroll
+  -webkit-overflow-scrolling: touch;
   box-shadow: 0 -1px 10px rgba(0, 0, 0, .7);
 	transform-style: inherit;
 }
