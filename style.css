@@ -13,8 +13,8 @@ body {
 	transform-style: preserve-3d;
   height: 100%;
   overflow-y: scroll;
-  -webkit-overflow-scrolling: touch;
   overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
   font-family: Nunito;
 }
 
